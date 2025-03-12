@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkumardehariya&show_icons=true&locale=en&layout=compact" alt="ramkumardehariya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumardehariya&" alt="ramkumardehariya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumardehariya" alt="ramkumardehariya" /></p>
