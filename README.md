@@ -1,23 +1,113 @@
-
 <h1 align="center">Hi 👋, I'm Ramkumar Dehariya</h1>
-<h3 align="center">I am a MERN stack Devloper and DSA problem solver</h3>
+<h3 align="center">🚀 MERN Stack & Full Stack Developer | DSA Problem Solver</h3>
+
 <img align="right" alt="coding" width="400"
 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
-- 📫 How to reach me **ramkumardehariya26@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 💡 About Me
+- 💻 Full Stack Developer skilled in building scalable web applications  
+- ⚡ Strong in **React, Node.js, Express, MongoDB, MySQL**  
+- 🧠 Solved **1000+ DSA problems** on LeetCode  
+- 📊 LeetCode Global Rank ~1900  
+- 🚀 Experience in building **REST APIs, authentication systems, dashboards**  
+- 🎯 Currently looking for **Software Developer / MERN Stack roles**  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **ramkumardehariya26@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/ramkumardehariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkumardehariya" height="30" width="40" /></a>
-<a href="https://fb.com/rammehramehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rammehramehra" height="30" width="40" /></a>
-<a href="https://instagram.com/rammehramehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rammehramehra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramkumar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramkumar2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ramkumardehariya26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ramkumardehariya26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramkumardehariya" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://leetcode.com/ramkumar2002" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/ramkumardehariya26" target="blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+</a>
+<a href="https://instagram.com/rammehramehra" target="blank">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkumardehariya&show_icons=true&locale=en&layout=compact" alt="ramkumardehariya" /></p> 
+## 🚀 Projects
+### 📚 StudyNotion (MERN EdTech Platform)
+- Built a full-stack learning platform with authentication and course management  
+- Implemented REST APIs and secure JWT authentication  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumardehariya" alt="ramkumardehariya" /></p>
+### ⭐ StoreRate (Role-Based Rating Platform)
+- Developed platform with Admin/User roles and rating system  
+- Implemented CRUD operations and role-based access control  
+
+### 🌐 Personal Portfolio Website
+- Responsive portfolio showcasing projects and skills  
+- Built using React and Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,supabase,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ramkumardehariya&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumardehariya&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkumardehariya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 Solved **1000+ DSA problems** across platforms  
+- 📈 Strong problem-solving skills with optimized approaches  
+- 💼 Experience in real-world full-stack development  
+
+---
+
+## 🔥 Fun Fact
+- I love solving complex problems and turning ideas into real-world applications 🚀  
+
+---
+
+⭐️ From [Ramkumar Dehariya](https://github.com/ramkumardehariya)
